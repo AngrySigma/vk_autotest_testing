@@ -1,5 +1,6 @@
-import pytest
 from math import isinf, isnan
+
+import pytest
 
 
 @pytest.fixture
